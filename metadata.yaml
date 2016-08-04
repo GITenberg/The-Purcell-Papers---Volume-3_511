@@ -1,0 +1,33 @@
+_repo: The-Purcell-Papers---Volume-3_511
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Fanu, Joseph Sheridan
+    aliases:
+    - Fanu, J. Sheridan Le
+    - LeFanu, J. S. (Joseph Sheridan)
+    - Fanu, Joseph Sheridan Le
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '272'
+    url: http://www.gutenberg.org/2009/agents/272
+    wikipedia: http://en.wikipedia.org/wiki/Sheridan_Le_Fanu
+description: ''
+gutenberg_issued: '2008-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction, English'
+- GITenberg
+tableOfContents: Jim Sulivan's adventures in the great snow -- A chapter in the history
+  of a Tyrone family -- An adventure of Hardress Fitzgerald, a royalist captain --
+  'The quare gander' -- Billy Malowney's taste of love and glory.
+title: The Purcell Papers — Volume 3
+url: http://www.gutenberg.org/ebooks/511
